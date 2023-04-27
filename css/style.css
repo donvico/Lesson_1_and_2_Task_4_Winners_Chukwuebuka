@@ -50,3 +50,19 @@ table {
 
 
 /* Write your css below here */
+.container {
+	padding: 10px;
+	background-color: rgb(206, 204, 196); color: rgb(0, 0, 0);
+}
+
+p {
+	padding: 10px 0;
+	text-align: justify;
+}
+
+img{
+	width: 100vw;
+	margin-top: 5px;
+
+}
+
